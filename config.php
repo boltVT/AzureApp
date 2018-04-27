@@ -13,7 +13,7 @@
     $dbpassword = "cnsa1";
     $dbdatabase = "shoppingcart";
     
-    $config_basedir = "http://bolt.gwiddle.co.uk/";
+    $config_basedir = "http://boltwebapp.azurewebsites.net/";
     
     $config_sitename = "Bolt";
     
