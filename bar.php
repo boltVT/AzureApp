@@ -42,7 +42,7 @@
 					echo "<li><a href='".$config_basedir."login.php'>Login</a></li>";
 				}
                 
-				echo "</ul>";
+				echo $config_basedir."</ul>";
          ?>
     </div>
 
