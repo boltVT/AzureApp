@@ -1,0 +1,35 @@
+div#header{
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+    color: red;
+}
+div#footer{
+    background-color: lightgrey;
+    height: 50px;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+div#bar{
+    background-color:lightgrey;
+    float: left;
+    height: 600px;
+    position: 
+}
+div#menubar{
+    background-color: lightgrey;
+    text-align: center;
+    height: 25px;
+}
+div#loginstrip{
+    float: left;
+}
+h1#content{
+    text-align: center;
+}
+h1#sidebar{
+    font-size: 20px;
+    font-family:serif;
+    color: red;
+}
